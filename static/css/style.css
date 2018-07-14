@@ -1,0 +1,38 @@
+header{
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+  border-bottom-right-radius: 10;
+  border-bottom-left-radius: 10;  
+  color: #61122f;
+}
+
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #61122f;
+  font-family: 'Oxygen', sans-serif, helvetica;
+  height: auto;
+}
+
+#main-content{
+  margin-top: 100px;
+  height: auto;
+  color: #f6b319;
+  padding-top: 60px;
+  padding-bottom: 50px;
+}
+
+#formcont{
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+
+.panel-footer {
+  margin-top: 30px;
+  padding: auto;
+  background-color: #2222;
+  border-top: 0;
+  color: #fff;
+} 
+
